@@ -1,0 +1,1 @@
+CCS ödev1 in bootstrap a çevrilmiş halidir.

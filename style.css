@@ -1,0 +1,94 @@
+body{
+    background-color: #E9ECEF;
+}
+.toolbar {
+    background-color: #575b61;
+    height: 50px;
+    
+}
+
+.navbar-nav {
+    padding-top: 13px;
+}
+
+.navbar-nav a{
+    color: white;
+}
+/***************************index********************/
+.button{
+    text-align: center;
+}
+.btn{
+    background-color: #0079FB;
+    color: #2d3436;
+    padding: 5px;
+    border: 2px #0079FB solid;
+    font-size: 15px;
+    border-radius: 5px;
+}
+.jumbotron{
+    margin-top: 10%;
+    background-color: #E9ECEF;
+    text-align: center;
+}
+.display-4{
+    color: #d63031;
+}
+.baslik{
+    color:darkgoldenrod;
+}
+
+/*********************************Hakkımızda************************/
+
+.card-title{
+    text-align: center;
+    color: rgb(169, 29, 169);
+}
+.baslikrenk{
+    color:darkgoldenrod ;
+}
+
+/**************************ürünler***************************/
+.mt-5{
+    margin-top: 3rem!important;
+    max-width: 720px;
+}
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+.mt-5{
+    margin-top: 3rem!important;
+}
+.col-sm-4{
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+.card{
+    box-sizing: border-box;
+    word-wrap: break-word;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+.card-body{
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
